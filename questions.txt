@@ -1,0 +1,387 @@
+0|1|What is the capital of Nepal?|Biratnagar|Kathmandu|Lalitpur|Pokhara|2
+0|1|Which is the national flower of Nepal?|Rhododendron|Lotus|Rose|Sunflower|1
+0|1|What is the currency of Nepal?|Dollar|Taka|Euro|Rupee|4
+0|1|Which festival is known as the festival of lights in Nepal?|Tihar|Teej|Holi|Dashain|1
+0|1|What is the national animal of Nepal?|Cow|Tiger|Elephant|Rhino|1
+0|1|Which language is primarily spoken in Nepal?|Newari|Nepali|English|Hindi|2
+0|1|What is the national bird of Nepal?|Danphe|Eagle|Peacock|Crow|1
+0|1|Which country borders Nepal to the south?|Bhutan|India|Bangladesh|China|2
+0|1|What is the main religion practiced in Nepal?|Islam|Hinduism|Buddhism|Christianity|2
+0|1|Which is the largest city in Nepal?|Kathmandu|Pokhara|Biratnagar|Bharatpur|1
+0|1|What is the national game of Nepal?|Cricket|Volleyball|Football|Dandi Biyo|4
+0|1|Which color is NOT in the Nepali flag?|Green|Blue|Red|White|1
+0|1|What is the traditional greeting in Nepal?|Sat Sri Akal|Adaab|Namaste|Hello|3
+0|1|Which is the most popular food in Nepal?|Dal Bhat|Noodles|Pizza|Burger|1
+0|1|What is the shape of Nepal's flag?|Unique double pennant|Rectangle|Triangle|Square|1
+0|1|Which festival celebrates the bond between brothers and sisters?|Raksha Bandhan|Dashain|Tihar|Teej|1
+0|1|What is the traditional dress for Nepali women?|Gunyu Cholo|Sari|Lehenga|Salwar|1
+0|1|Which is the national tree of Nepal?|Sal|Peepal|Mango|Banyan|1
+0|1|What does "Nepal" mean?|Abode of snow|Holy land|Beautiful country|Land of mountains|4
+0|1|Which is the main export of Nepal?|Spices|Carpets|Tea|Rice|2
+0|1|What is the traditional musical instrument of Nepal?|Tabla|Piano|Guitar|Madal|4
+0|1|Which ethnic group is the largest in Nepal?|Tamang|Sherpa|Newar|Chhetri|4
+0|1|What is the literacy rate approximately in Nepal?|80 percent|67 percent|90 percent|50 percent|2
+0|1|Which is the oldest university in Nepal?|Tribhuvan University|Pokhara University|Purbanchal University|Kathmandu University|1
+0|1|What is the time zone of Nepal?|GMT+6|GMT+5:45|GMT+5|GMT+4:30|2
+
+0|2|Who was the first Prime Minister of Nepal?|Jung Bahadur Rana|Matrika Prasad Koirala|Bishweshwar Prasad Koirala|Tribhuvan|2
+0|2|In which year did Nepal become a federal republic?|2008|2006|2009|2007|1
+0|2|Who unified Nepal?|Jung Bahadur Rana|Mahendra|Prithvi Narayan Shah|Tribhuvan|3
+0|2|Which dynasty ruled Nepal before the Shah dynasty?|Licchavi|Kirat|Malla|Rana|3
+0|2|What is the constitution of Nepal called?|Constitution of Nepal 2015|Democratic Constitution|Federal Constitution|Republican Constitution|1
+0|2|Who was known as the Iron Man of Nepal?|Man Mohan Adhikari|Ganesh Man Singh|B P Koirala|Krishna Prasad Bhattarai|2
+0|2|Which movement led to the end of Rana rule?|1990 Movement|2046 Movement|1951 Revolution|2006 Movement|3
+0|2|How many provinces are there in Nepal?|6|5|8|7|4
+0|2|Which is the oldest political party in Nepal?|Nepali Congress|Rastriya Prajatantra Party|Nepal Sadbhavana Party|CPN-UML|1
+0|2|Who wrote the national anthem of Nepal?|Pradeep Kumar Rai|Byakul Maila|Chakrapani Chalise|Laxmi Prasad Devkota|2
+0|2|Which king introduced the Panchayat system?|Mahendra|Birendra|Tribhuvan|Gyanendra|1
+0|2|What is the local government structure called in Nepal?|All of the above|Ward|Palika|Gaupalika|1
+0|2|Which year was the multiparty system restored in Nepal?|1990|1989|1991|1992|1
+0|2|Who was the last king of Nepal?|Gyanendra|Mahendra|Dipendra|Birendra|1
+0|2|Which is the supreme court of Nepal located?|Kathmandu|Lalitpur|Bhaktapur|Pokhara|1
+0|2|What is the tenure of the President of Nepal?|5 years|6 years|4 years|7 years|1
+0|2|Which house of parliament has more members?|House of Representatives|National Assembly|No parliament|Both equal|1
+0|2|Who can dissolve the House of Representatives?|President|Prime Minister|Speaker|Supreme Court|1
+0|2|What is the voting age in Nepal?|18|17|16|21|1
+0|2|Which commission conducts elections in Nepal?|Election Commission|Constitutional Commission|Administrative Commission|Judicial Commission|1
+0|2|How many members are in the House of Representatives?|275|245|300|330|1
+0|2|What is the name of Nepal's intelligence agency?|NIB|RAW|NIA|ISI|1
+0|2|Which act governs the civil service in Nepal?|Civil Service Act 2049|Government Act|Public Service Act|Administrative Act|1
+0|2|Who appoints the Chief Justice of Nepal?|President|Prime Minister|Judicial Council|Parliament|1
+0|2|Which is the anti-corruption body in Nepal?|CIAA|NPC|DOI|NAC|1
+
+0|3|Which treaty established Nepal's current borders with India?|Trade Treaty|Treaty of Sugauli|Mahakali Treaty|Anglo-Nepal War Treaty|2
+0|3|Who was the architect of modern Nepal's foreign policy?|King Mahendra|B P Koirala|Girija Prasad Koirala|King Prithvi Narayan Shah|4
+0|3|Which Nepali poet is known as "Mahakavi"?|Laxmi Prasad Devkota|Parijat|Gopal Prasad Rimal|Bhanubhakta Acharya|1
+0|3|In which year was the Kot Massacre?|1846|1847|1849|1848|1
+0|3|Who established the Rana regime in Nepal?|Jung Bahadur Rana|Chandra Shumsher|Bir Shumsher|Bhimsen Thapa|1
+0|3|Which is the oldest newspaper still published in Nepal?|The Rising Nepal|Kantipur|Himalayan Times|Gorkhapatra|4
+0|3|Who was the first woman President of Nepal?|Sahana Pradhan|Onsari Gharti Magar|Dila Maya Rawal|Bidhya Devi Bhandari|4
+0|3|Which medieval period is known as the Golden Age of Nepal?|Malla Period|Kirat Period|Shah Period|Licchavi Period|1
+0|3|Who introduced the Bikram Sambat calendar?|Vikramaditya|Chandragupta|Jung Bahadur|Prithvi Narayan Shah|1
+0|3|Which is the first medical college established in Nepal?|Nepal Medical College|B P Koirala Institute|Kathmandu Medical College|Institute of Medicine|4
+0|3|Who was the first Nepali to climb Mount Everest?|Kami Rita Sherpa|Nawang Gombu|Tenzing Norgay|Phurba Tashi|3
+0|3|Which revolution brought democracy to Nepal in 1990?|Jana Andolan I|People's War|Madhesh Movement|Jana Andolan II|1
+0|3|Who was the first elected Prime Minister after 1990?|Man Mohan Adhikari|Girija Prasad Koirala|Sher Bahadur Deuba|Lokendra Bahadur Chand|2
+0|3|Which commission investigated the 2006 conflict?|Investigation Commission|Truth and Reconciliation Commission|Peace Commission|Human Rights Commission|2
+0|3|Who was the first Chief Justice of Nepal?|Min Bahadur Rayamajhi|Kalyan Shrestha|Bishnu Raj Upreti|Hari Prasad Joshi|4
+0|3|Which is the first hydroelectric project in Nepal?|Kulekhani|Pharping|Trishuli|Marsyangdi|2
+0|3|Who founded the Praja Parishad?|Dashrath Chand|Dharma Bhakta Mathema|Tanka Prasad Acharya|Ganga Lal Shrestha|3
+0|3|Which year did Nepal join the United Nations?|1956|1957|1958|1955|4
+0|3|Who was the first Nepali woman pilot?|Sharada Devi|Kamala Devi|Rekha Thapa|Yogmaya Neupane|4
+0|3|Which is the first bank established in Nepal?|Nepal Bank Limited|Rastriya Banijya Bank|Agricultural Development Bank|Nepal Investment Bank|1
+0|3|Who was the first Governor of Nepal Rastra Bank?|Tanka Prasad Acharya|Yadav Prasad Pant|Himalaya Shumsher|Satyendra Pyara Adhikari|3
+0|3|Which is the first university to offer MBA in Nepal?|Kathmandu University|Purbanchal University|Tribhuvan University|Pokhara University|3
+0|3|Who was the first woman minister in Nepal?|Yogmaya Neupane|Kamala Devi|Dwarika Devi Thakurani|Sahana Pradhan|3
+0|3|Which peace agreement ended the decade-long conflict?|Comprehensive Peace Agreement|25-Point Code of Conduct|12-Point Understanding|7-Point Agreement|1
+0|3|Who was the commander of the Nepalese Army during Anglo-Nepal War?|Amar Singh Thapa|Bhakti Thapa|Ujir Singh Thapa|Balabhadra Kunwar|1
+
+1|1|Which is the highest mountain in Nepal?|Lhotse|Mount Everest|Kanchenjunga|K2|2
+1|1|How many districts are there in Nepal?|75|78|77|76|3
+1|1|Which river flows through Kathmandu?|Bagmati|Gandaki|Koshi|Karnali|1
+1|1|Which is the largest lake in Nepal?|Rara Lake|Begnas Lake|Phewa Lake|Tilicho Lake|1
+1|1|In which zone is Pokhara located?|Karnali|Bagmati|Gandaki|Lumbini|3
+1|1|Which is the southernmost point of Nepal?|Mahottari|Jhapa|Saptari|Kanchanpur|2
+1|1|What is the total area of Nepal?|147,181 sq km|150,000 sq km|148,000 sq km|147,516 sq km|1
+1|1|Which national park is famous for tigers?|Chitwan|Langtang|Sagarmatha|Bardia|1
+1|1|Which is the longest river in Nepal?|Karnali|Bagmati|Gandaki|Koshi|1
+1|1|Which district has the lowest population?|Dolpa|Mustang|Mugu|Manang|2
+1|1|Which is the hottest place in Nepal?|Janakpur|Biratnagar|Birgunj|Nepalgunj|4
+1|1|Which mountain range runs through Nepal?|Andes|Rockies|Alps|Himalayas|4
+1|1|Which is the largest district by area?|Gorkha|Humla|Mustang|Dolpa|4
+1|1|Which valley is Kathmandu situated in?|Pokhara Valley|Kathmandu Valley|Dang Valley|Chitwan Valley|2
+1|1|Which is the main airport of Nepal?|Tribhuvan International Airport|Gautam Buddha Airport|Pokhara Airport|Biratnagar Airport|1
+1|1|Which is the deepest lake in Nepal?|Phewa Lake|Shey Phoksundo Lake|Gokyo Lake|Rara Lake|2
+1|1|Which region has the highest population density?|Mountains|All equal|Hills|Terai|4
+1|1|Which is the smallest district of Nepal?|Lalitpur|Kathmandu|Kavrepalanchok|Bhaktapur|4
+1|1|Which glacier is the source of Bagmati river?|Gosaikunda|Shivapuri|Langtang|Ganesh Himal|1
+1|1|Which is the major pass to Tibet?|Nangpa La|Kongma La|Thorong La|Cho La|1
+1|1|Which is the wettest place in Nepal?|Dharan|Ilam|Lumle|Pokhara|3
+1|1|Which river forms the border between Nepal and India in the east?|Koshi|Mechi|Mahakali|Narayani|2
+1|1|Which is the highest motorable road in Nepal?|Thorong La|Muktinath|Mustang|Jomsom|3
+1|1|Which is the major earthquake fault line in Nepal?|Himalayan Frontal Fault|Main Central Thrust|Main Boundary Thrust|Main Frontal Thrust|2
+1|1|Which conservation area is largest in Nepal?|Api Nampa|Annapurna|Kanchenjunga|Manaslu|2
+
+1|2|Which mountain is known as the "Killer Mountain" in Nepal?|Dhaulagiri|Annapurna I|Cho Oyu|Manaslu|2
+1|2|How many climate zones does Nepal have?|6|4|3|5|4
+1|2|Which river system drains the eastern part of Nepal?|Gandaki|Koshi|Mahakali|Karnali|2
+1|2|What is the elevation of Kathmandu?|1450m|1350m|1400m|1350m|2
+1|2|Which is the second highest mountain in Nepal?|Lhotse|Cho Oyu|Makalu|Kanchenjunga|4
+1|2|Which protected area has the highest altitude variation?|Annapurna Conservation Area|Sagarmatha National Park|Langtang National Park|Makalu Barun National Park|4
+1|2|Which valley is known as the "Valley of Flowers"?|Annapurna Base Camp|Valley of Flowers|Gokyo Valley|Langtang Valley|2
+1|2|What percentage of Nepal is covered by forests?|44%|55%|25%|35%|1
+1|2|Which is the most earthquake-prone zone in Nepal?|Zone III|Zone I|Zone IV|Zone II|3
+1|2|Which lake is formed by a landslide?|Phewa Lake|Tsho Rolpa|Rara Lake|Begnas Lake|1
+1|2|Which river has the steepest gradient in Nepal?|Arun|Marsyangdi|Bhote Koshi|Dudh Koshi|3
+1|2|Which bioclimatic zone covers the largest area?|Alpine|Tropical|Subtropical|Temperate|3
+1|2|Which is the major watershed divide in Nepal?|Chure Range|Main Himalayan Range|Mahabharat Range|Siwalik Range|3
+1|2|Which glacier retreat is most studied in Nepal?|Khumbu Glacier|Ngozumpa Glacier|Imja Glacier|Rongbuk Glacier|3
+1|2|Which region experiences the highest rainfall?|Western Hills|Eastern Hills|Central Hills|Far Western Hills|2
+1|2|What is the tree line altitude in Nepal?|4200m|4000m|4500m|3500m|1
+1|2|Which physiographic region occupies the largest area?|Mountains|Hills|Valleys|Terai|2
+1|2|Which river has the largest catchment area in Nepal?|Koshi|Bagmati|Karnali|Gandaki|3
+1|2|Which is the highest settlement in Nepal?|Thukla|Rongbuk|Dingboche|Gorak Shep|2
+1|2|Which protected area was established first?|Langtang National Park|Chitwan National Park|Royal Bardia National Park|Sagarmatha National Park|2
+1|2|Which monsoon affects Nepal's climate?|Neither|Southwest Monsoon|Both|Northeast Monsoon|2
+1|2|Which geographical region has the highest biodiversity?|Valleys|Terai|Hills|Mountains|2
+1|2|Which is the lowest point in Nepal?|70m|60m|59m|80m|3
+1|2|Which tectonic plate collision formed the Himalayas?|Pacific and Indian|Australian and Eurasian|Indian and Eurasian|African and Eurasian|3
+1|2|Which river is known for its dangerous rapids?|Sun Koshi|Trishuli|Kali Gandaki|Bhote Koshi|4
+
+1|3|What is the average annual precipitation in the Himalayas of Nepal?|500mm|1000mm|1500mm|2000mm|3
+1|3|Which fault system is responsible for the 2015 earthquake?|Main Himalayan Thrust|Main Central Thrust|South Tibetan Detachment|Tethyan Himalayan Sequence|1
+1|3|Which endemic species is found only in Nepal's mountains?|Snow Leopard|Spiny Babbler|Red Panda|Himalayan Tahr|2
+1|3|What is the approximate rate of Himalayan uplift per year?|1-2mm|3-5mm|5-10mm|10-15mm|3
+1|3|Which river captures the most sediment annually?|Koshi|Gandaki|Karnali|Bagmati|1
+1|3|Which microclimate zone exists above 5000m?|Nival|Alpine|Subalpine|Temperate|1
+1|3|What is the geothermal gradient in the Nepal Himalayas?|15 degrees/km|25 degrees/km|35 degrees/km|45 degrees/km|2
+1|3|Which mineral resource is most abundant in Nepal?|Limestone|Copper|Iron|Gold|1
+1|3|Which glacier lake poses the highest GLOF risk?|Tsho Rolpa|Imja|Lower Barun|Thulagi|1
+1|3|What percentage of Nepal lies above 3000m elevation?|15%|23%|35%|42%|2
+1|3|Which structural zone contains the highest peaks?|Tethyan Himalaya|Greater Himalaya|Lesser Himalaya|Sub-Himalaya|2
+1|3|Which river system has the highest suspended sediment load?|Koshi system|Gandaki system|Karnali system|Mahakali system|1
+1|3|What is the average slope angle in the Middle Mountains?|15-25 degrees|25-35 degrees|35-45 degrees|45-55 degrees|2
+1|3|Which metamorphic grade characterizes the High Himalayas?|Greenschist|Amphibolite|Granulite|Eclogite|2
+1|3|Which biogeographic realm does Nepal belong to?|Palearctic|Oriental|Both|Nearctic|3
+1|3|What is the approximate age of the Siwalik formation?|2-25 million years|25-50 million years|50-75 million years|75-100 million years|1
+1|3|Which drainage pattern dominates in the Nepal Himalayas?|Dendritic|Radial|Rectangular|Antecedent|4
+1|3|What is the permafrost line altitude in Nepal?|4500m|5000m|5200m|5500m|3
+1|3|Which tectonic window exposes the oldest rocks?|Kathmandu Complex|Nawakot Complex|Midlands Group|Tansen Group|1
+1|3|What is the primary cause of mass wasting in Nepal?|Earthquakes|Monsoon|Deforestation|All of the above|4
+1|3|Which pressure system influences winter weather in Nepal?|Westerlies|Trade winds|Monsoon|Polar easterlies|1
+1|3|What is the lapse rate in the Nepal Himalayas?|4 degrees/1000m|6 degrees/1000m|8 degrees/1000m|10 degrees/1000m|2
+1|3|Which river shows the highest annual discharge variation?|Bagmati|Rapti|Kamala|Mechi|1
+1|3|What percentage of Nepal's area is above the tree line?|35%|25%|40%|45%|2
+
+2|1|What is the chemical symbol for water?|H2O|CO2|NaCl|O2|1
+2|1|How many bones are in an adult human body?|206|156|256|306|1
+2|1|What gas do plants absorb from the atmosphere?|Oxygen|Nitrogen|Carbon dioxide|Hydrogen|3
+2|1|What is the hardest natural substance on Earth?|Gold|Iron|Diamond|Silver|3
+2|1|Which planet is known as the Red Planet?|Venus|Mars|Jupiter|Saturn|2
+2|1|What is the center of an atom called?|Electron|Proton|Neutron|Nucleus|4
+2|1|What type of animal is a whale?|Fish|Reptile|Amphibian|Mammal|4
+2|1|How many chambers does a human heart have?|Two|Three|Four|Five|3
+2|1|What is the chemical symbol for gold?|Go|Gd|Au|Ag|3
+2|1|Which gas makes up most of Earth's atmosphere?|Oxygen|Carbon dioxide|Nitrogen|Hydrogen|3
+2|1|What is the speed of light?|300000 km/s|150000 km/s|450000 km/s|600000 km/s|1
+2|1|What is the largest organ in the human body?|Heart|Brain|Liver|Skin|4
+2|1|How many legs does a spider have?|Six|Eight|Ten|Twelve|2
+2|1|What is the chemical formula for table salt?|NaCl|KCl|CaCl2|MgCl2|1
+2|1|Which blood type is known as the universal donor?|A|B|AB|O|4
+2|1|What is the boiling point of water at sea level?|90C|100C|110C|120C|2
+2|1|What is the smallest unit of matter?|Molecule|Cell|Atom|Proton|3
+2|1|Which vitamin is produced when skin is exposed to sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|4
+2|1|What is the chemical symbol for iron?|Ir|In|Fe|Fr|3
+2|1|How many teeth does an adult human typically have?|28|30|32|34|3
+2|1|What is the main gas in the sun?|Helium|Oxygen|Hydrogen|Nitrogen|3
+2|1|Which organ produces insulin?|Liver|Kidney|Pancreas|Stomach|3
+2|1|What is the chemical symbol for sodium?|So|Sm|Na|Sn|3
+2|1|How many chromosomes do humans have?|44|46|48|50|2
+2|1|What is the freezing point of water?|-2 degree Celsius|0 degree Celsius|2 degree Celsius|4 degree Celsius|2
+
+2|2|What is the pH of pure water?|6|7|8|9|2
+2|2|Which particle has no electric charge?|Electron|Proton|Neutron|Ion|3
+2|2|What is the most abundant element in the universe?|Oxygen|Carbon|Helium|Hydrogen|4
+2|2|How many pairs of ribs do humans have?|10|11|12|13|3
+2|2|What is the chemical name for vitamin C?|Ascorbic acid|Citric acid|Acetic acid|Lactic acid|1
+2|2|Which law states that energy cannot be created or destroyed?|Newton's first law|Conservation of energy|Boyle's law|Ohm's law|2
+2|2|What is the largest bone in the human body?|Tibia|Fibula|Femur|Humerus|3
+2|2|Which element has the atomic number 1?|Helium|Lithium|Hydrogen|Carbon|3
+2|2|What is the powerhouse of the cell?|Nucleus|Ribosome|Mitochondria|Vacuole|3
+2|2|How long does it take for light from the Sun to reach Earth?|6 minutes|8 minutes|10 minutes|12 minutes|2
+2|2|What is the chemical formula for methane?|CH3|CH4|C2H4|C2H6|2
+2|2|Which blood vessels carry blood away from the heart?|Veins|Capillaries|Arteries|Ventricles|3
+2|2|What is the study of earthquakes called?|Geology|Meteorology|Seismology|Oceanography|3
+2|2|How many valence electrons does carbon have?|2|4|6|8|2
+2|2|What is the normal human body temperature in Celsius?|35C|36C|37C|38C|3
+2|2|Which planet has the most moons?|Jupiter|Saturn|Uranus|Neptune|2
+2|2|What is the chemical symbol for potassium?|P|Po|K|Pt|3
+2|2|What type of bond holds water molecules together?|Ionic|Covalent|Hydrogen|Metallic|3
+2|2|How many bones are in the human skull?|20|22|24|26|2
+2|2|What is the unit of electrical resistance?|Volt|Ampere|Ohm|Watt|3
+2|2|Which hormone regulates blood sugar?|Adrenaline|Insulin|Thyroxine|Cortisol|2
+2|2|What is the chemical formula for ammonia?|NH2|NH3|NH4|N2H4|2
+2|2|How many chambers does a bird's heart have?|Two|Three|Four|Five|3
+2|2|What is the smallest particle of an element?|Molecule|Atom|Ion|Electron|2
+2|2|Which part of the brain controls balance?|Cerebrum|Cerebellum|Medulla|Hypothalamus|2
+
+2|3|What is the half-life of Carbon-14?|2730 years|5730 years|8730 years|11730 years|2
+2|3|Which amino acid is encoded by only one codon?|Alanine|Glycine|Methionine|Serine|3
+2|3|What is the molecular weight of water?|16.04|18.02|20.06|22.08|2
+2|3|Which enzyme breaks down starch?|Pepsin|Trypsin|Lipase|Amylase|4
+2|3|What is the electron configuration of oxygen?|1s2 2s2 2p4|1s2 2s2 2p2|1s2 2s2 2p6|1s2 2s2 2p3|1
+2|3|How many ATP molecules are produced in glycolysis?|1|2|4|6|2
+2|3|What is the critical angle for total internal reflection in water?|42.2 degrees|48.6 degrees|51.8 degrees|55.4 degrees|2
+2|3|Which isotope is used in carbon dating?|Carbon-12|Carbon-13|Carbon-14|Carbon-15|3
+2|3|What is the molar mass of glucose?|160.16 g/mol|180.16 g/mol|200.16 g/mol|220.16 g/mol|2
+2|3|How many base pairs are in the human genome?|1.2 billion|2.1 billion|3.2 billion|4.3 billion|3
+2|3|What is the wavelength of green light?|450-495 nm|495-570 nm|570-590 nm|620-750 nm|2
+2|3|Which particle mediates the weak nuclear force?|Photon|Gluon|W boson|Higgs boson|3
+2|3|What is Avogadro's number?|6.022 x 10^22|6.022 x 10^23|6.022 x 10^24|6.022 x 10^25|2
+2|3|How many hydrogen bonds can water form?|2|3|4|5|3
+2|3|What is the binding energy of deuteron?|1.11 MeV|2.23 MeV|3.34 MeV|4.45 MeV|2
+2|3|Which organelle contains its own DNA?|Ribosome|Endoplasmic reticulum|Mitochondria|Golgi apparatus|3
+2|3|What is the isoelectric point of glycine?|4.26|5.97|6.64|8.12|2
+2|3|How many stereoisomers does glucose have?|8|12|16|20|3
+2|3|What is the work function of zinc?|3.63 eV|4.33 eV|5.11 eV|6.24 eV|2
+2|3|Which quantum number describes orbital shape?|Principal|Azimuthal|Magnetic|Spin|2
+2|3|What is the pKa of acetic acid?|3.76|4.76|5.76|6.76|2
+2|3|How many sigma bonds are in benzene?|6|9|12|15|3
+2|3|What is the standard reduction potential of hydrogen?|-1.00 V|0.00 V|1.00 V|2.00 V|2
+2|3|Which amino acid contains sulfur?|Cysteine|Serine|Threonine|Tyrosine|1
+2|3|What is the coordination number of FCC structure?|6|8|10|12|4
+
+3|1|How many players are on a football team on the field?|9|10|11|12|3
+3|1|In which sport would you perform a slam dunk?|Football|Tennis|Basketball|Volleyball|3
+3|1|How many rings are on the Olympic flag?|4|5|6|7|2
+3|1|What is the maximum score possible in ten-pin bowling?|250|280|300|350|3
+3|1|In tennis, what does love mean?|Zero|One|Tie|Advantage|1
+3|1|How many minutes are in a football half?|40|45|50|55|2
+3|1|What sport is played at Wimbledon?|Golf|Cricket|Tennis|Badminton|3
+3|1|How many bases are there in baseball?|3|4|5|6|2
+3|1|In which sport do you use a shuttlecock?|Tennis|Squash|Badminton|Table tennis|3
+3|1|What is the highest score in gymnastics?|8|9|10|11|3
+3|1|How many holes are on a standard golf course?|16|17|18|19|3
+3|1|In basketball, how many points is a free throw worth?|1|2|3|4|1
+3|1|What color card is shown for a serious foul in football?|Yellow|Blue|Red|Green|3
+3|1|How many players are in a volleyball team on court?|5|6|7|8|2
+3|1|What is the term for scoring in American football?|Goal|Point|Touchdown|Basket|3
+3|1|In cricket, how many stumps are there?|2|3|4|5|2
+3|1|What sport uses the terms strike and spare?|Golf|Tennis|Bowling|Baseball|3
+3|1|How many periods are in an ice hockey game?|2|3|4|5|2
+3|1|In boxing, how many rounds are in a championship fight?|10|12|15|20|2
+3|1|What is the maximum number of clubs in a golf bag?|12|14|16|18|2
+3|1|In swimming, what stroke is used in backstroke?|Freestyle|Butterfly|Back crawl|Breaststroke|3
+3|1|How many points is a rugby try worth?|3|4|5|6|3
+3|1|What sport is played on a court with a net in the middle?|Basketball|Volleyball|Tennis|Badminton|2
+3|1|In football, what is it called when the ball goes out of bounds?|Free kick|Corner|Throw-in|Offside|3
+3|1|How many events are in a decathlon?|8|9|10|11|3
+
+3|2|Who has won the most FIFA World Cups?|Germany|Argentina|Brazil|Italy|3
+3|2|In tennis, what is a score of 40-40 called?|Advantage|Deuce|Match point|Set point|2
+3|2|How many Grand Slam tournaments are there in tennis?|3|4|5|6|2
+3|2|What is the diameter of a basketball hoop in inches?|16|18|20|22|2
+3|2|In golf, what is one stroke under par called?|Eagle|Birdie|Bogey|Albatross|2
+3|2|How many laps is the Indianapolis 500?|150|175|200|225|3
+3|2|What is the standard distance of a marathon?|25.2 miles|26.2 miles|27.2 miles|28.2 miles|2
+3|2|In cricket, what is the maximum number of overs in a T20 match?|15|20|25|30|2
+3|2|How many horses compete in the Kentucky Derby?|16|18|20|22|3
+3|2|What is the height of a basketball hoop?|9 feet|10 feet|11 feet|12 feet|2
+3|2|In Formula 1, how many points does the winner get?|20|22|25|30|3
+3|2|What is the weight of a boxing heavyweight minimum?|180 lbs|190 lbs|200 lbs|210 lbs|3
+3|2|How many players are on an ice hockey team on ice?|5|6|7|8|2
+3|2|In swimming, how many lanes are in an Olympic pool?|6|7|8|10|3
+3|2|What is the regulation height of a volleyball net for men?|2.24m|2.43m|2.62m|2.84m|2
+3|2|How many balls are used in a game of pool?|13|14|15|16|4
+3|2|In American football, how many yards is a first down?|8|10|12|15|2
+3|2|What is the maximum break in snooker?|145|147|149|151|2
+3|2|How many events are in a heptathlon?|5|6|7|8|3
+3|2|In darts, what is the highest single score?|19|20|25|50|2
+3|2|How many sets do you need to win a men's tennis match at Wimbledon?|2|3|4|5|2
+3|2|What is the standard weight of a shot put for men?|14kg|16kg|18kg|20kg|2
+3|2|In badminton, how many points do you need to win a game?|15|18|21|25|3
+3|2|How many pins are there in bowling?|8|9|10|12|3
+3|2|What is the minimum age to compete in the Olympics?|14|15|16|17|3
+
+3|3|Who holds the record for most career home runs in MLB?|Babe Ruth|Hank Aaron|Barry Bonds|Willie Mays|3
+3|3|In which year were the first modern Olympics held?|1892|1896|1900|1904|2
+3|3|What is Michael Phelps total Olympic medal count?|22|24|26|28|4
+3|3|Who has won the most Masters Tournament in golf?|Tiger Woods|Jack Nicklaus|Arnold Palmer|Gary Player|2
+3|3|In Formula 1, who holds the record for most career wins?|Ayrton Senna|Michael Schumacher|Lewis Hamilton|Sebastian Vettel|3
+3|3|What is the fastest recorded tennis serve?|251 km/h|263 km/h|275 km/h|287 km/h|2
+3|3|Who has scored the most goals in FIFA World Cup history?|Pele|Diego Maradona|Miroslav Klose|Ronaldo|3
+3|3|In basketball, who has the most career points in NBA?|Michael Jordan|Kobe Bryant|LeBron James|Kareem Abdul-Jabbar|3
+3|3|What is the record for most consecutive wins in tennis?|72|84|96|108|2
+3|3|Who has won the most Wimbledon men's singles titles?|Roger Federer|Pete Sampras|Novak Djokovic|Rafael Nadal|1
+3|3|In cricket, who has the highest individual Test score?|Brian Lara|Mahela Jayawardene|Matthew Hayden|Virender Sehwag|1
+3|3|What is the fastest 100m sprint time ever recorded?|9.58s|9.63s|9.69s|9.72s|1
+3|3|Who has won the most Tour de France titles?|Miguel Indurain|Lance Armstrong|Eddy Merckx|Jacques Anquetil|3
+3|3|In swimming, who holds the 1500m freestyle world record?|Sun Yang|Mack Horton|Florian Wellbrock|Bobby Finke|4
+3|3|What is the highest individual score in ODI cricket?|264|284|304|324|1
+3|3|Who has the most career Grand Slam titles in tennis men?|Roger Federer|Rafael Nadal|Novak Djokovic|Pete Sampras|3
+3|3|In golf, what is the lowest 72-hole score in major history?|265|263|261|259|2
+3|3|Who holds the javelin throw world record?|Jan Zelezny|Andreas Thorkildsen|Aki Parviainen|Seppo Raty|1
+3|3|What is the highest team score in Test cricket?|952/6|1107|1365|1456|2
+3|3|In boxing, who is known as The Greatest?|Joe Frazier|George Foreman|Muhammad Ali|Mike Tyson|3
+3|3|Who has the most career touchdown passes in NFL?|Peyton Manning|Tom Brady|Drew Brees|Brett Favre|2
+3|3|What is the marathon world record time?|2:01:09|2:01:39|2:02:09|2:02:39|2
+3|3|In snooker, who has won the most World Championships?|Stephen Hendry|Ronnie O'Sullivan|Steve Davis|Ray Reardon|2
+3|3|Who holds the pole vault world record?|Sergey Bubka|Renaud Lavillenie|Armand Duplantis|Maksym Mazuryk|3
+3|3|What is the fastest recorded cricket ball?|161.3 km/h|175.6 km/h|187.1 km/h|192.4 km/h|1
+
+4|1|What does HTML stand for?|Hypertext Markup Language|High-level Text Language|Home Tool Management Language|Hyperlink Text Mode Language|1
+4|1|Which symbol is used for comments in Python?|//|#|/*|--|2
+4|1|What does CSS stand for?|Computer Style System|Creative Style Sheets|Cascading Style Sheets|Coded Style Structure|3
+4|1|In programming, what does API stand for?|Application Programming Interface|Advanced Program Integration|Automated Programming Instructions|Application Process Integration|1
+4|1|Which company developed Java?|Microsoft|Sun Microsystems|Apple|Google|2
+4|1|What is the file extension for Python files?|.java|.cpp|.py|.js|3
+4|1|Which tag is used to create a hyperlink in HTML?|<link>|<href>|<a>|<url>|3
+4|1|What does SQL stand for?|Structured Query Language|System Quality Logic|Standard Question Language|Simple Query Logic|1
+4|1|Which operator is used for assignment in most languages?|==|=|!=|<>|2
+4|1|What is the binary representation of decimal 8?|1010|1000|1100|0110|2
+4|1|Which method is used to add elements to a list in Python?|add()|insert()|append()|push()|3
+4|1|What does IDE stand for?|Integrated Development Environment|Internal Data Exchange|Interactive Design Editor|International Development Engine|1
+4|1|Which company created JavaScript?|Microsoft|Sun Microsystems|Netscape|Adobe|3
+4|1|What is the correct way to declare a variable in JavaScript?|variable x|var x|declare x|int x|2
+4|1|Which symbol is used for single-line comments in Java?|#|//|/*|--|2
+4|1|What does JSON stand for?|JavaScript Object Network|Java Standard Object Notation|JavaScript Object Notation|Java System Object Network|3
+4|1|Which HTML tag is used for the largest heading?|<h6>|<h3>|<h1>|<header>|3
+4|1|What is the result of 5 // 2 in Python?|2.5|2|3|Error|2
+4|1|Which method is used to get user input in Python?|scan()|read()|input()|get()|3
+4|1|What does URL stand for?|Universal Resource Locator|Uniform Resource Locator|United Resource Location|Universal Reference Link|2
+4|1|Which tag is used to include CSS in HTML?|<css>|<style>|<link>|<script>|2
+4|1|What is the correct syntax for a for loop in Python?|for i in range(10):|for (i=0; i<10; i++)|for i = 1 to 10|for i from 0 to 10|1
+4|1|Which company owns GitHub?|Google|Amazon|Microsoft|Facebook|3
+4|1|What does HTTP stand for?|HyperText Transfer Protocol|High-level Text Transfer Process|Home Text Transfer Program|HyperLink Text Transport Protocol|1
+4|1|Which symbol is used for exponentiation in Python?|^|**|pow|exp|2
+
+4|2|What is the time complexity of binary search?|O(n)|O(log n)|O(n squared)|O(1)|2
+4|2|Which design pattern ensures a class has only one instance?|Factory|Observer|Singleton|Strategy|3
+4|2|What is the default port for HTTP?|21|25|80|443|3
+4|2|In object-oriented programming, what is encapsulation?|Hiding implementation details|Creating multiple instances|Inheriting from parent class|Overriding methods|1
+4|2|What does REST stand for in web services?|Representational State Transfer|Remote System Transfer|Reliable State Transmission|Resource State Transaction|1
+4|2|Which algorithm is used for finding shortest path?|Bubble sort|Quick sort|Dijkstra's algorithm|Binary search|3
+4|2|What is the space complexity of merge sort?|O(1)|O(log n)|O(n)|O(n squared)|3
+4|2|In databases, what does ACID stand for?|Atomicity Consistency Isolation Durability|Access Control Integration Data|Automatic Consistent Independent Distributed|Advanced Concurrent Indexed Dynamic|1
+4|2|Which HTTP status code indicates Not Found?|200|301|404|500|3
+4|2|What is polymorphism in OOP?|Data hiding|Code reusability|Multiple forms|Single inheritance|3
+4|2|Which data structure uses LIFO principle?|Queue|Array|Stack|Tree|3
+4|2|What is the default port for HTTPS?|80|443|8080|3000|2
+4|2|In Git, what command is used to create a new branch?|git new|git branch|git create|git checkout|2
+4|2|What does MVC stand for?|Model View Controller|Multiple Variable Control|Master View Component|Managed Virtual Container|1
+4|2|Which sorting algorithm has best average time complexity?|Bubble sort|Selection sort|Merge sort|Insertion sort|3
+4|2|What is a closure in programming?|A loop structure|A function with access to outer variables|A class definition|A database connection|2
+4|2|Which protocol is used for secure file transfer?|FTP|HTTP|SFTP|SMTP|3
+4|2|What is the purpose of a primary key in databases?|Sort data|Encrypt data|Uniquely identify records|Index data|3
+4|2|In Python, what is a decorator?|A design pattern|A function that modifies another function|A data type|A loop structure|2
+4|2|What does NoSQL stand for?|Not Only SQL|New Object Structure Language|Network Oriented System Language|Non-Standard Query Language|1
+4|2|Which method is used to convert string to integer in Java?|toInt()|parseInt()|Integer.parseInt()|convert()|3
+4|2|What is the difference between == and === in JavaScript?|No difference|Type coercion|Scope difference|Performance difference|2
+4|2|In networking, what does DNS stand for?|Data Network System|Domain Name System|Digital Network Service|Distributed Name Server|2
+4|2|What is Big O notation used for?|Code debugging|Algorithm complexity analysis|Database design|User interface design|2
+4|2|Which command is used to install packages in Python?|install|pip install|python install|get install|2
+
+4|3|What is the time complexity of building a heap?|O(log n)|O(n)|O(n log n)|O(n squared)|2
+4|3|Which algorithm is used in HashMap for collision resolution?|Linear probing|Quadratic probing|Chaining|Double hashing|3
+4|3|What is the space complexity of quicksort in worst case?|O(1)|O(log n)|O(n)|O(n squared)|3
+4|3|In machine learning, what does gradient descent minimize?|Accuracy|Precision|Cost function|Recall|3
+4|3|What is the maximum number of nodes in a binary tree of height h?|2^h|2^h - 1|2^(h+1) - 1|2^(h-1)|3
+4|3|Which theorem states that any recursive function can be computed by a Turing machine?|Church-Turing thesis|Godel's theorem|Halting problem|Rice's theorem|1
+4|3|In compiler design, what is the purpose of lexical analysis?|Code optimization|Syntax checking|Token generation|Error handling|3
+4|3|What is the worst-case time complexity of deletion in a B-tree?|O(1)|O(log n)|O(n)|O(n log n)|2
+4|3|Which consistency model allows reading your own writes?|Eventual consistency|Strong consistency|Causal consistency|Monotonic read consistency|4
+4|3|What is the minimum number of comparisons needed to sort n elements?|n|n log n|n squared|2^n|2
+4|3|In graph theory, what is the chromatic number of a complete graph Kn?|1|2|n-1|n|4
+4|3|Which algorithm is used for cycle detection in directed graphs?|BFS|DFS|Topological sort|Tarjan's algorithm|4
+4|3|What is the maximum height of an AVL tree with n nodes?|log n|1.44 log n|2 log n|n|2
+4|3|In distributed systems, what does CAP theorem state?|Consistency Availability Partition tolerance|Concurrency Atomicity Persistence|Coordination Aggregation Partitioning|Caching Authentication Performance|1
+4|3|What is the time complexity of Bellman-Ford algorithm?|O(V)|O(E)|O(VE)|O(V squared)|3
+4|3|Which data structure is used to implement LRU cache efficiently?|Array|Linked list|Hash table + Doubly linked list|Binary tree|3
+4|3|What is the minimum spanning tree of a graph with all edge weights equal?|Unique|Any spanning tree|Depends on algorithm|No MST exists|2
+4|3|In functional programming, what is a monad?|A design pattern|A mathematical structure|A data type|A function composition|2
+4|3|What is the space complexity of breadth-first search?|O(1)|O(log V)|O(V)|O(E)|3
+4|3|Which algorithm is used for string matching with preprocessing?|Naive algorithm|KMP algorithm|Rabin-Karp|Boyer-Moore|2
+4|3|What is the maximum flow in a network with unit capacities?|Equal to minimum cut|Sum of all capacities|Number of paths|Depends on source|1
+4|3|In dynamic programming, what is memoization?|Top-down approach|Bottom-up approach|Greedy choice|Divide and conquer|1
+4|3|What is the worst-case time complexity of Dijkstra's algorithm?|O(V)|O(E)|O(V squared)|O((V+E) log V)|4
+4|3|Which theorem relates to the undecidability of the halting problem?|Church-Turing thesis|Rice's theorem|Godel's incompleteness|Cantor's theorem|2
