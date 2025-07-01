@@ -81,7 +81,7 @@ BEGIN AdminAuth
     DISPLAY "Enter admin password:"
     GET admin_password
     
-    IF admin_password == "messigoat" THEN
+    IF admin_password == "******" THEN
         DISPLAY "Admin access granted"
         RETURN authentication_success
     ELSE
@@ -436,7 +436,7 @@ flowchart TD
     START([Start Quiz System]) --> INIT[Initialize System<br/>Load Data Files]
     INIT --> MAIN_MENU{Main Menu<br/>1. Admin Panel<br/>2. User Panel<br/>3. Exit}
     
-    MAIN_MENU -->|1| ADMIN_AUTH{Admin Authentication<br/>Password: messigoat}
+    MAIN_MENU -->|1| ADMIN_AUTH{Admin Authentication<br/>Password: *******}
     MAIN_MENU -->|2| USER_PANEL[User Panel]
     MAIN_MENU -->|3| SAVE_EXIT[Save Data & Exit]
     
