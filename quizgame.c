@@ -3,6 +3,9 @@
 #include <string.h>
 #include <time.h>
 #include <ctype.h>
+#ifdef _WIN32
+    #include <conio.h>
+#endif
 
 #define MAX_QUESTIONS 1000
 #define MAX_USERS 100
@@ -83,6 +86,7 @@ void shuffle_array(int arr[], int n);
 void clear_screen();
 void wait_enter();
 int check_time_limit();
+void get_hidden_password(char *password, int max_length);
 
 void reset_password();
 void delete_user();
@@ -145,7 +149,7 @@ void admin_panel()
 {
     char admin_pass[20];
     printf("Enter Admin Password (or 'back' to return): ");
-    scanf("%s", admin_pass);
+    get_hidden_password(admin_pass, sizeof(admin_pass));
     if (is_back_command(admin_pass))
     {
         return;
@@ -366,6 +370,7 @@ void register_user()
 
     User new_user;
     char input[100];
+    char confirm_password[MAX_PASSWORD];
 
     printf("Enter Full Name (or 'back' to return): ");
     getchar();
@@ -399,15 +404,37 @@ void register_user()
 
     strcpy(new_user.phone, input);
 
-    printf("Enter Password (or 'back' to return): ");
-    scanf("%s", input);
-
-    if (is_back_command(input))
+    // Password input with confirmation
+    while (1)
     {
-        return;
-    }
+        printf("Enter Password (or 'back' to return): ");
+        get_hidden_password(input, sizeof(input));
 
-    strcpy(new_user.password, input);
+        if (is_back_command(input))
+        {
+            return;
+        }
+
+        printf("Confirm Password (or 'back' to return): ");
+        get_hidden_password(confirm_password, sizeof(confirm_password));
+
+        if (is_back_command(confirm_password))
+        {
+            return;
+        }
+
+        // Check if passwords match
+        if (strcmp(input, confirm_password) == 0)
+        {
+            strcpy(new_user.password, input);
+            break; // Passwords match, exit the loop
+        }
+        else
+        {
+            printf("Passwords do not match! Please try again.\n\n");
+            // Loop will continue, asking for passwords again
+        }
+    }
 
     printf("Choose a username (or 'back' to return): ");
     scanf("%s", input);
@@ -447,7 +474,6 @@ void register_user()
     save_users();
 
     printf("Registration successful!\n");
-
     wait_enter();
 }
 
@@ -463,7 +489,7 @@ int login_user()
     }
 
     printf("Password (or 'back' to return): ");
-    scanf("%s", password);
+    get_hidden_password(password, sizeof(password));
 
     if (is_back_command(password))
     {
@@ -1230,6 +1256,41 @@ int is_back_command(char *input)
     return 0;
 }
 
+void get_hidden_password(char *password, int max_length)
+{
+    int i = 0;
+    char ch;
+    
+    #ifdef _WIN32
+        // Windows implementation using conio.h
+        while (i < max_length - 1)
+        {
+            ch = _getch();
+            
+            if (ch == '\r' || ch == '\n') 
+            {
+                break;
+            }
+            else if (ch == '\b' && i > 0) 
+            {
+                printf("\b \b"); 
+                i--;
+            }
+            else if (ch != '\b') 
+            {
+                password[i] = ch;
+                printf("*"); 
+                i++;
+            }
+        }
+        password[i] = '\0'; 
+        printf("\n");
+    #else
+        
+        scanf("%s", password);
+    #endif
+}
+
 void save_users()
 {
     FILE *fp = fopen("users.dat", "wb");
@@ -1342,7 +1403,7 @@ void load_questions_from_txt()
 
     if (question_count > 0)
     {
-        save_questions(); // Save to binary file for faster loading next time
+        save_questions(); 
         printf("Imported %d questions from questions.txt\n", question_count);
     }
 }
