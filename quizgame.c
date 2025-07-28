@@ -22,8 +22,8 @@ typedef struct
     char question[MAX_QUESTION_LENGTH];
     char options[4][MAX_OPTION_LENGTH];
     int correct_answer;
-    int difficulty; // 1=Easy, 2=Medium, 3=Hard
-    int category;   // 0-4 for categories
+    int difficulty; 
+    int category;   
     int points;
     int time_limit;
 } Question;
@@ -39,7 +39,7 @@ typedef struct
     int rapid_high_score;
     int total_general_games;
     int total_rapid_games;
-    int scores[50]; // Last 50 scores
+    int scores[50]; 
     int score_count;
 } User;
 
@@ -51,7 +51,7 @@ typedef struct
     int used_count;
 } QuestionBank;
 
-// Global variables
+
 QuestionBank qbank;
 User users[MAX_USERS];
 int user_count = 0;
@@ -1454,6 +1454,6 @@ void wait_enter()
 
 int check_time_limit()
 {
-    
+
     return 1;
 }
