@@ -74,13 +74,13 @@ quiz_game/
 ### First Time Setup
 
 1. Compile and run the application
-2. Access Admin Panel with password: `messigoat`
+2. Access Admin Panel with password: `*********`
 3. Add questions or import from `questions.txt`
 4. Register users or create them via admin panel
 
 ### Admin Panel Access
 
-- **Password**: `messigoat`
+- **Password**: `*********`
 - **Features**:
   - Question management (add/view/delete)
   - User management

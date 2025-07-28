@@ -1262,7 +1262,7 @@ void get_hidden_password(char *password, int max_length)
     char ch;
     
     #ifdef _WIN32
-        // Windows implementation using conio.h
+        
         while (i < max_length - 1)
         {
             ch = _getch();
@@ -1287,7 +1287,39 @@ void get_hidden_password(char *password, int max_length)
         printf("\n");
     #else
         
-        scanf("%s", password);
+        
+    struct termios oldt, newt;
+
+   
+    tcgetattr(STDIN_FILENO, &oldt);
+    newt = oldt;
+
+  
+    newt.c_lflag &= ~(ECHO);
+    tcsetattr(STDIN_FILENO, TCSANOW, &newt);
+
+    
+    while (i < max_length - 1) {
+        ch = getchar();
+
+        if (ch == '\n') {
+            break;
+        } else if (ch == 127 || ch == '\b') {
+            if (i > 0) {
+                printf("\b \b");
+                i--;
+            }
+        } else {
+            password[i++] = ch;
+            printf("*");
+        }
+    }
+
+    password[i] = '\0';
+
+    // Restore terminal settings
+    tcsetattr(STDIN_FILENO, TCSANOW, &oldt);
+    printf("\n");
     #endif
 }
 
