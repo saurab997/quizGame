@@ -1358,7 +1358,7 @@ void save_questions()
 
 void load_questions()
 {
-    // First try to load from binary file
+
     FILE *fp = fopen("questions.dat", "rb");
     if (fp)
     {
@@ -1369,7 +1369,6 @@ void load_questions()
         return;
     }
 
-    // If no binary file, try to import from questions.txt
     load_questions_from_txt();
 }
 
@@ -1425,7 +1424,7 @@ void load_questions_from_txt()
         token = strtok(NULL, "|");
         if (!token)
             continue;
-        q->correct_answer = atoi(token) - 1; // Convert to 0-based index
+        q->correct_answer = atoi(token) - 1; 
 
         question_count++;
     }
@@ -1455,6 +1454,6 @@ void wait_enter()
 
 int check_time_limit()
 {
-    // This function can be used for future enhancements
+    
     return 1;
 }
